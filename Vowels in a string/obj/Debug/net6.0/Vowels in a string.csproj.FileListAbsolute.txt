@@ -1,0 +1,15 @@
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\bin\Debug\net6.0\Vowels in a string.exe
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\bin\Debug\net6.0\Vowels in a string.deps.json
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\bin\Debug\net6.0\Vowels in a string.runtimeconfig.json
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\bin\Debug\net6.0\Vowels in a string.dll
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\bin\Debug\net6.0\Vowels in a string.pdb
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\obj\Debug\net6.0\Vowels in a string.csproj.AssemblyReference.cache
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\obj\Debug\net6.0\Vowels in a string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\obj\Debug\net6.0\Vowels in a string.AssemblyInfoInputs.cache
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\obj\Debug\net6.0\Vowels in a string.AssemblyInfo.cs
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\obj\Debug\net6.0\Vowels in a string.csproj.CoreCompileInputs.cache
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\obj\Debug\net6.0\Vowels in a string.dll
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\obj\Debug\net6.0\refint\Vowels in a string.dll
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\obj\Debug\net6.0\Vowels in a string.pdb
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\obj\Debug\net6.0\Vowels in a string.genruntimeconfig.cache
+C:\Users\zabad\source\repos\Vowels in a string\Vowels in a string\obj\Debug\net6.0\ref\Vowels in a string.dll
